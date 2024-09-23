@@ -2,4 +2,5 @@
 
 # mdwebsite
 
-[First Post](/blog/first-post/)
+[First Post](blog/first-post/)
+[test](test/)
